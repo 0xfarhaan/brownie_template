@@ -1,0 +1,8 @@
+{
+  "solidity.remappings": [
+    "@openzeppelin/=/Users/farhaan/.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.5.0",
+    "solmate/=/Users/farhaan/.brownie/packages/rari-capital/solmate@v6",
+    "@chainlink=/Users/farhaan/.brownie/packages/smartcontractkit/chainlink@1.3.0",
+  ],
+  "inline-bookmarks.view.showVisibleFilesOnly": false
+}
